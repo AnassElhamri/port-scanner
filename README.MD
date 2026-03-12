@@ -110,4 +110,4 @@ Only scan targets you own or have explicit permission to scan. The default test 
 
 ## License
 
-ANASS EL HAMRI
+MIT
