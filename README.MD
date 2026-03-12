@@ -48,7 +48,7 @@ python port_scanner.py scanme.nmap.org -p 1-65535
 python port_scanner.py scanme.nmap.org -p all
 
 # Faster scan with more threads and lower timeout
-python port_scanner.py scanme.nmap.org -p common -w 1000 -t 0.5
+python port_scanner.py scanme.nmap.org -p common -w 1000 -t 0.8
 
 # Save report to JSON
 python port_scanner.py scanme.nmap.org -o report.json
